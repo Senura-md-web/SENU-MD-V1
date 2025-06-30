@@ -1,5 +1,5 @@
-// Created by SENU MD
-// wa.me/94XXXXXXXXX
+// Created by SENURA
+// wa.me/94702139127
 
 const { spawn } = require('child_process');
 const path = require('path');
